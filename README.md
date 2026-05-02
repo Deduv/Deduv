@@ -1,4 +1,4 @@
-# Olá, eu sou o Eduardo Santana · Hi, I'm Eduardo Santana
+# Prazer, Eduardo
 
 ### Back-End Developer
 
@@ -29,8 +29,3 @@ Graduando em Engenharia de Software 💻 (2/8) pela UNIFACS Salvador, com forma�
 
 ---
 
-### Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deduv&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560)
-
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deduv&show_icons=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=E94560&border_color=E94560)
