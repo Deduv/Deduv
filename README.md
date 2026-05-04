@@ -11,4 +11,21 @@
 
 Graduando em Engenharia de Software 💻 (2/8) pela UNIFACS Salvador, com formação técnica em Mecânica Industrial pelo IFBA. Focado em desenvolvimento back-end com Java e Spring Boot, construindo uma base forte em APIs REST e bancos de dados relacionais.
 
+---
+
+### Tech Stack
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></td>
+  </tr>
+</table>
+
+---
 
