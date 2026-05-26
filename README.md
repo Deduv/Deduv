@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardosantprofissional/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:profissional.santana.eduardo@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/eduruntime)
 
 ---
 
@@ -11,9 +12,9 @@
 
 Graduando em Engenharia de Software 💻 (2/8) pela UNIFACS Salvador, com formação técnica em Mecânica Industrial pelo IFBA. Focado em desenvolvimento back-end com Java e Spring Boot, construindo uma base forte em APIs REST e bancos de dados relacionais.
 
-Jiu Jitsu e café 🥋☕
+Jiu Jitsu e café🥋☕
 
-*Software Engineering student (2/8) at UNIFACS Salvador, with a technical background in Industrial Mechanics. Focused on back-end development with Java and Spring Boot, building a strong foundation in REST APIs and relational databases. Jiu Jitsu and coffee.*
+*Software Engineering student (2/8) at UNIFACS Salvador, with a technical background in Industrial Mechanics. Focused on back-end development with Java and Spring Boot, building a strong foundation in REST APIs and relational databases. Jiu Jitsu and coffee*
 
 ---
 
