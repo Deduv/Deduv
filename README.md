@@ -1,4 +1,4 @@
-# Prazer, Eduardo
+# Prazer, Eduardo · Hi, I'm Eduardo
 
 ### Back-End Developer
 
@@ -11,6 +11,10 @@
 
 Graduando em Engenharia de Software 💻 (2/8) pela UNIFACS Salvador, com formação técnica em Mecânica Industrial pelo IFBA. Focado em desenvolvimento back-end com Java e Spring Boot, construindo uma base forte em APIs REST e bancos de dados relacionais.
 
+Jiu Jitsu e café — meus aliados quando o código insiste em não funcionar. 🥋☕
+
+*Software Engineering student (2/8) at UNIFACS Salvador, with a technical background in Industrial Mechanics. Focused on back-end development with Java and Spring Boot, building a strong foundation in REST APIs and relational databases. Jiu Jitsu and coffee — my allies when the code just won't cooperate.*
+
 ---
 
 ### Tech Stack
@@ -22,6 +26,7 @@ Graduando em Engenharia de Software 💻 (2/8) pela UNIFACS Salvador, com forma�
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></td>
   </tr>
@@ -29,3 +34,8 @@ Graduando em Engenharia de Software 💻 (2/8) pela UNIFACS Salvador, com forma�
 
 ---
 
+### Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deduv&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560)
+
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deduv&show_icons=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=E94560&border_color=E94560)
