@@ -1,4 +1,4 @@
-# Prazer, Eduardo · Hi, I'm Eduardo
+#Hi, I'm Eduardo
 
 ### Back-End Developer
 
@@ -10,11 +10,7 @@
 
 ### About me
 
-Graduando em Engenharia de Software 💻 (2/8) pela UNIFACS Salvador, com formação técnica em Mecânica Industrial pelo IFBA. Focado em desenvolvimento back-end com Java e Spring Boot, construindo uma base forte em APIs REST e bancos de dados relacionais.
-
-Jiu Jitsu e café🥋☕
-
-*Software Engineering student (2/8) at UNIFACS Salvador, with a technical background in Industrial Mechanics. Focused on back-end development with Java and Spring Boot, building a strong foundation in REST APIs and relational databases. Jiu Jitsu and coffee*
+Software Engineering student (2/8) at UNIFACS Salvador, with a technical background in Industrial Mechanics. Focused on back-end development with Java and Spring Boot, building a strong foundation in REST APIs and relational databases. Jiu Jitsu and coffee
 
 ---
 
@@ -35,4 +31,15 @@ Jiu Jitsu e café🥋☕
 
 ---
 
+### GitHub Stats
 
+<div align="center">
+  <a href="https://github.com/Deduv">
+    <img src="https://github-readme-stats.vercel.app/api?username=Deduv&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Eduardo's GitHub Stats" height="192"/>
+  </a>
+  <a href="https://github.com/Deduv">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deduv&layout=compact&theme=radical" alt="Top Languages" height="192"/>
+  </a>
+</div>
+
+---
