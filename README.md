@@ -23,15 +23,6 @@ Software Engineering student at UNIFACS Salvador with background in Industrial M
   </tr>
 </table>
 
-## Featured Projects
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deduv&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
 
-- **workshop-springboot4-jpa** — REST API with Spring Boot 3, JPA, PostgreSQL. Deployed on Railway.
-- **demo-dao-jdbc** — JDBC DAO pattern implementation with MySQL.
-- **curso_udemy-java_completo** — Comprehensive Java coursework repository.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deduv&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deduv&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&hide_border=false" alt="Top Languages" height="180"/>
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deduv&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&hide_border=false" alt="Top Languages" height="180"/>
