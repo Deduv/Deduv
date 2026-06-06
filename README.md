@@ -12,7 +12,16 @@ Software Engineering student at UNIFACS Salvador with background in Industrial M
 
 ## Tech Stack
 
-Java • Spring Boot • PostgreSQL • MySQL • MongoDB • Docker • Git • Linux
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>Java</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/><br/>Spring Boot</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br/>PostgreSQL</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/><br/>MySQL</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/><br/>Docker</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br/>Git</td>
+  </tr>
+</table>
 
 ## Featured Projects
 
