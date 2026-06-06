@@ -31,15 +31,8 @@ Software Engineering student (2/8) at UNIFACS Salvador, with a technical backgro
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Deduv">
-    <img src="https://github-readme-stats.vercel.app/api?username=Deduv&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Eduardo's GitHub Stats" height="192"/>
-  </a>
-  <a href="https://github.com/Deduv">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deduv&layout=compact&theme=radical" alt="Top Languages" height="192"/>
-  </a>
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Deduv&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deduv&layout=compact&theme=dark)
 </div>
 
 ---
